@@ -1,0 +1,6 @@
+
+{
+  "name": "The Syndicate: Mafia Game Manager",
+  "description": "A premium, high-stakes game management tool for Mafia/Werewolf sessions. Features player tracking, role assignment, night action logs, and AI-powered scenario analysis.",
+  "requestFramePermissions": []
+}
