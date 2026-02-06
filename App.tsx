@@ -114,7 +114,7 @@ const App: React.FC = () => {
               <div className="w-10 h-10 md:w-12 md:h-12 rounded-xl bg-red-600 flex items-center justify-center text-white shadow-[0_0_20px_rgba(220,38,38,0.3)] shrink-0">
                 <i className="fa-solid fa-user-secret text-xl md:text-2xl"></i>
               </div>
-              <h1 className="text-2xl md:text-4xl font-black tracking-tighter uppercase italic">The Syndicate</h1>
+              <h1 className="text-2xl md:text-4xl font-black tracking-tighter uppercase italic">The Syndicate Game</h1>
             </div>
             <p className="text-zinc-400 font-medium text-xs md:text-sm ml-1">Advanced Tactical Management for Mafia Operations</p>
           </div>
